@@ -1,7 +1,7 @@
 ---
-title: "Sample Plan for 431 Project A"
+title: "Sample Plan for 431 Project B"
 subtitle: "Using data from CHR 2018 (and 2013)"
-author: "Thomas E. Love, Ph.D."
+author: "Liangliang Zhang, Ph.D."
 date-modified: last-modified
 format: 
   html:
@@ -17,11 +17,11 @@ format:
 
 :::{.callout-tip title="Some important notes"}
 
-1. A template for the Project A Plan is available to you, via the [Examples page on the Project A website](https://thomaselove.github.io/431-projectA-2025/examples.html). Please use it in combination with this document to prepare revisions, as needed, to your Plan. We used it to develop this document.
+1. A template for the Project B Plan is available to you, via the [Examples page on the Project B website](https://lyonszhang.github.io/431-projectB-2025/examples.html). Please use it in combination with this document to prepare revisions, as needed, to your Plan. We used it to develop this document.
 
 2. You need to write your own comments and responses to the Plan’s requirements. You are welcome to use the words here as illustrative examples of what we're looking for, but these should be edited by you to be specific to your project.
 
-3. You need a real title (80 characters, maximum, without using “431” or “Project” or “Project A”) in your Plan. You can, as we have above, include a subtitle, but the main title must stand on its own. Of course, in this sample plan, we used some words you're not allowed to use, and **we will break other rules (and note them) in what follows.**
+3. You need a real title (80 characters, maximum, without using “431” or “Project” or “Project B”) in your Plan. You can, as we have above, include a subtitle, but the main title must stand on its own. Of course, in this sample plan, we used some words you're not allowed to use, and **we will break other rules (and note them) in what follows.**
 
 :::
 
@@ -425,4 +425,5 @@ An AI usage statement goes here.
 ```{r}
 xfun::session_info()
 ```
+
 
