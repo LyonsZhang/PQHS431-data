@@ -16,9 +16,9 @@ format:
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Before submitting your Project A Portfolio Report,
+Before submitting your Project B Portfolio Report,
 
-1. Place a meaningful title (that doesn't use "431" or "Project A" or "Template") of no more than 80 characters, **and** your full name(s) as author in the YAML at the top of this template. If you want to include a subtitle, something like "431 Project A Portfolio Report" is acceptable there. Otherwise, delete the subtitle section from the YAML. It's no problem if your title has changed since we approved your Project A Plan.
+1. Place a meaningful title (that doesn't use "431" or "Project B" or "Template") of no more than 80 characters, **and** your full name(s) as author in the YAML at the top of this template. If you want to include a subtitle, something like "431 Project B Portfolio Report" is acceptable there. Otherwise, delete the subtitle section from the YAML. It's no problem if your title has changed since we approved your Project B Plan.
 
 2. Delete this note and all of my other instructions from this document. Please leave the headings and subheadings as they are, but feel encouraged to augment the R code we provide here as needed, rather than being obliged to replace it entirely.
 
@@ -275,6 +275,7 @@ In preparing this response, I made no use of AI outside of spell-check and code 
 ```{r}
 xfun::session_info()
 ```
+
 
 
 
