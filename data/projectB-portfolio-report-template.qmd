@@ -1,5 +1,5 @@
 ---
-title: "431 Project A Portfolio Report Template (Replace This Title)"
+title: "431 Project B Portfolio Report Template (Replace This Title)"
 subtitle: "If you want a subtitle, here's where to put it."
 author: "Your Name (or Names) Should Be Here"
 date-modified: last-modified
@@ -26,7 +26,7 @@ Before submitting your Project A Portfolio Report,
 
 4. Run spell-check (hit F7) before rendering the document to HTML.
 
-5. Make sure you've checked through the items in the Report Checklist before Submission that we list on the [Portfolio page](https://thomaselove.github.io/431-projectA-2025/portfolio.html).
+5. Make sure you've checked through the items in the Report Checklist before Submission that we list on the [Portfolio page](https://lyonszhang.github.io/431-projectB-2025/portfolio.html).
 
 :::
 
@@ -34,7 +34,7 @@ Before submitting your Project A Portfolio Report,
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions in the R Packages section of the [Project A Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions in the R Packages section of the [Project B Plan page](https://lyonszhang.github.io/431-projectB-2025/portfolio.html).
 
 :::
 
@@ -62,7 +62,7 @@ theme_set(theme_bw())
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found in Data Task 1 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the Data Ingest section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found in Data Task 1 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the Data Ingest section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 The sample code from Data Task 1 is included below.
 
@@ -82,7 +82,7 @@ chr_2025_raw <- read_csv(data_url, skip = 1, guess_max = 4000,
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found in Data Task 2 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the State Selection section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found in Data Task 2 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the State Selection section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 :::
 
@@ -90,7 +90,7 @@ Follow the instructions for this section found in Data Task 2 on the [Data page]
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found in Data Task 3 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the Variable Selection section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found in Data Task 3 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the Variable Selection section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 
 :::
@@ -99,7 +99,7 @@ Follow the instructions for this section found in Data Task 3 on the [Data page]
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found at the end of Data Task 3 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the Variable Cleaning and Renaming section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found at the end of Data Task 3 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the Variable Cleaning and Renaming section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 .
 
 :::
@@ -108,7 +108,7 @@ Follow the instructions for this section found at the end of Data Task 3 on the 
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found in Data Task 4 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the Creating the Analysis 2 Predictor section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found in Data Task 4 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the Creating the Analysis 2 Predictor section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 .
 
 :::
@@ -117,7 +117,7 @@ Follow the instructions for this section found in Data Task 4 on the [Data page]
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found in Data Task 5 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the Adding 2019 Data for the Analysis 3 Outcome section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found in Data Task 5 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the Adding 2019 Data for the Analysis 3 Outcome section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 :::
 
@@ -125,7 +125,7 @@ Follow the instructions for this section found in Data Task 5 on the [Data page]
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions for this section found in Data Task 6 on the [Data page](https://thomaselove.github.io/431-projectA-2025/data.html), as well as the Arranging and Saving the Analytic Tibble section of the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the instructions for this section found in Data Task 6 on the [Data page](https://lyonszhang.github.io/431-projectB-2025/data.html), as well as the Arranging and Saving the Analytic Tibble section of the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 :::
 
@@ -133,7 +133,7 @@ Follow the instructions for this section found in Data Task 6 on the [Data page]
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the relevant instructions for this section found on the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the relevant instructions for this section found on the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 :::
 
@@ -142,7 +142,7 @@ Follow the relevant instructions for this section found on the [Plan page](https
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the relevant instructions for this section found on the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the relevant instructions for this section found on the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 Those instructions will help you create the four subsections labeled below.
 
@@ -165,7 +165,7 @@ Those instructions will help you create the four subsections labeled below.
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the relevant instructions for this section found on the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the relevant instructions for this section found on the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 :::
 
@@ -275,4 +275,5 @@ In preparing this response, I made no use of AI outside of spell-check and code 
 ```{r}
 xfun::session_info()
 ```
+
 
