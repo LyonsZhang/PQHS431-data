@@ -186,7 +186,7 @@ etc. |
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the relevant instructions for this section, and its subsections, found on the [Plan page](https://thomaselove.github.io/431-projectA-2025/plan.html).
+Follow the relevant instructions for this section, and its subsections, found on the [Plan page](https://lyonszhang.github.io/431-projectB-2025/plan.html).
 
 :::
 
@@ -200,7 +200,7 @@ Follow the relevant instructions for this section, and its subsections, found on
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions on the [Analyses page](https://thomaselove.github.io/431-projectA-2025/analyses.html) carefully.
+Follow the instructions on the [Analyses page](https://lyonszhang.github.io/431-projectB-2025/analyses.html) carefully.
 
 :::
 
@@ -216,7 +216,7 @@ Follow the instructions on the [Analyses page](https://thomaselove.github.io/431
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions on the [Analyses page](https://thomaselove.github.io/431-projectA-2025/analyses.html) carefully.
+Follow the instructions on the [Analyses page](https://lyonszhang.github.io/431-projectB-2025/analyses.html) carefully.
 
 :::
 
@@ -232,7 +232,7 @@ Follow the instructions on the [Analyses page](https://thomaselove.github.io/431
 
 :::{.callout-tip title="Delete these instructions when submitting your work"}
 
-Follow the instructions on the [Analyses page](https://thomaselove.github.io/431-projectA-2025/analyses.html) carefully.
+Follow the instructions on the [Analyses page](https://lyonszhang.github.io/431-projectB-2025/analyses.html) carefully.
 
 :::
 
@@ -250,7 +250,7 @@ Follow the instructions on the [Analyses page](https://thomaselove.github.io/431
 
 The original "Reflections" section from your Project A Plan should **not** be included in the final portfolio report.
 
-Instead, follow the instructions on our [Portfolio page](https://thomaselove.github.io/431-projectA-2025/portfolio.html) to complete this section by writing a new paragraph (containing at least four well-constructed complete English sentences) to answer the following question:
+Instead, follow the instructions on our [Portfolio page](https://lyonszhang.github.io/431-projectB-2025/portfolio.html) to complete this section by writing a new paragraph (containing at least four well-constructed complete English sentences) to answer the following question:
 
 What was the most important thing you learned as a result of doing this project, and why?
 
@@ -275,5 +275,6 @@ In preparing this response, I made no use of AI outside of spell-check and code 
 ```{r}
 xfun::session_info()
 ```
+
 
 
